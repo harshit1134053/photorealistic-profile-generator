@@ -1,0 +1,7 @@
+torch==2.1.2
+transformers
+diffusers
+accelerate
+fastapi
+uvicorn
+Pillow
